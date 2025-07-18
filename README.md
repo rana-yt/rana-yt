@@ -2,6 +2,6 @@
 
 ## My Codewars Profile
 
-![Codewars](https://www.codewars.com/users/rana-yt/badges/micro)
+![Codewars](https://www.codewars.com/users/rana-yt/badges/large)
 
 
